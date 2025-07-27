@@ -45,8 +45,8 @@ Each agent has a distinct role, runs independently, and collaborates to produce 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/navmind-trip-planner.git
-cd navmind-trip-planner
+git clone https://github.com/djdhairya/NavMind.git
+cd NavMind
 ```
 
 ### 2. Set Up Environment
@@ -108,6 +108,15 @@ Visit [http://localhost:8501](http://localhost:8501) in your browser.
 - **Download**: Export as `.txt` for offline use
 
 ---
+<img width="1910" height="915" alt="Screenshot 2025-07-27 101219" src="https://github.com/user-attachments/assets/07fea1cc-7801-4a32-8f8b-d70d4aa24f36" />
+<img width="1919" height="914" alt="Screenshot 2025-07-27 101243" src="https://github.com/user-attachments/assets/67c526a7-2092-4ddf-bdd3-8bb2097279bc" />
+<img width="1353" height="184" alt="Screenshot 2025-07-27 101313" src="https://github.com/user-attachments/assets/7e1cb1e2-50ae-4906-9d68-e3cbce5c220c" />
+<img width="1366" height="671" alt="Screenshot 2025-07-27 101325" src="https://github.com/user-attachments/assets/4dee0f03-894b-4bc1-b47a-7669860e51e8" />
+<img width="1381" height="835" alt="Screenshot 2025-07-27 101409" src="https://github.com/user-attachments/assets/4b0b9f56-dea9-4ed8-b1dd-2f6b680ef6d0" />
+<img width="1287" height="678" alt="Screenshot 2025-07-27 101439" src="https://github.com/user-attachments/assets/c5573d23-1eb1-49d5-a887-f98253168200" />
+
+
+
 
 
 
